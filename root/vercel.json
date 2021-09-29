@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/blog/:match*",
-      "destination": "https://vercel-debug-blog.vercel.app/blog/:match*"
-    }
-  ]
-}
