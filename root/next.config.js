@@ -7,11 +7,11 @@ module.exports = {
       },
       {
         source: '/blog',
-        destination: `https://40049-nextjs-with-zones-blog.vercel-support.app/blog`,
+        destination: `https://41843-monorepo-nextjs-with-zones-blog.vercel-support.app/blog`,
       },
       {
         source: '/blog/:path*',
-        destination: `https://40049-nextjs-with-zones-blog.vercel-support.app/blog/:path*`,
+        destination: `https://41843-monorepo-nextjs-with-zones-blog.vercel-support.app/blog/:path*`,
       }
     ]
   },
